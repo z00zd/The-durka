@@ -1,0 +1,13 @@
+body {
+background-color: black;
+color: white;
+}
+a {
+color: red;
+}
+.images1{
+display: flex;
+}
+.images2{
+display: flex;
+}
