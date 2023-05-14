@@ -11,3 +11,6 @@ display: flex;
 .images2{
 display: flex;
 }
+border{
+  border-image: linerar-gradient(black; white)
+}
