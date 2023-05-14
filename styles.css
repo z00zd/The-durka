@@ -14,3 +14,7 @@ display: flex;
 border{
   border-image: linerar-gradient(black; white)
 }
+.passe-partout {
+    border: 2px solid; 
+    border-image: linear-gradient(black; white)
+}
