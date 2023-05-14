@@ -15,6 +15,6 @@ border{
   border-image: linerar-gradient(black; white)
 }
 .passe-partout {
-    border: 2px solid; 
+    border: 2px solid black; 
     border-image: linear-gradient(black; white)
 }
